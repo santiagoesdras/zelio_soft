@@ -1,0 +1,8 @@
+Instalación Zelio Soft 2
+1.  Acceder a la carpeta "Zelio" 
+2.  Acceder a la carptet "Install" 
+3.  Ejecutar "Setup.exe" 
+
+Instalación drivers para Zelio 
+1. Ejecutar "SR2_USB01_H2.x_Setup.exe
+
